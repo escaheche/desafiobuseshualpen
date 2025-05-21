@@ -13,8 +13,11 @@ Incluye API REST desarrollada con Spring Boot y documentación interactiva en Sw
    git clone https://github.com/escaheche/desafiobuseshualpen.git
    cd desafiobuseshualpen
 ````
-
-2. **Construye el proyecto**
+2. **Crea la bd "desafiobuses" en postgresql:**
+   
+   Puede ser a traves de pgadmin , comando
+   ```CREATE DATABASE desafiobuses;```
+3. **Construye el proyecto**
 
    ```bash
    ./gradlew clean build
@@ -23,7 +26,7 @@ Incluye API REST desarrollada con Spring Boot y documentación interactiva en Sw
    > Si usas Windows:
    > `.\gradlew clean build`
 
-3. **Ejecuta la aplicación**
+4. **Ejecuta la aplicación**
 
    ```bash
    ./gradlew bootRun
@@ -32,13 +35,10 @@ Incluye API REST desarrollada con Spring Boot y documentación interactiva en Sw
    > Si usas Windows:
    > `.\gradlew bootRun`
 
-4. **Abre Swagger UI en tu navegador:**
+5. **Abre Swagger UI en tu navegador:**
    [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
 
-5. **Crea la bd "desafiobuses" en postgresql:**
-   
-   Puede ser a traves de pgadmin , comando
-   ```CREATE DATABASE desafiobuses;```
+
 
 ---
 
