@@ -97,7 +97,7 @@ Incluye API REST desarrollada con Spring Boot y documentación interactiva en Sw
 **Ejemplo de uso en Swagger:**
 
 1. Haz login y copia el JWT.
-2. Haz clic en el botón de candado 🔒 en Swagger y pega el token con el prefijo `Bearer ` (espacio incluido).
+2. Haz clic en el botón de candado 🔒 en Swagger y pega el token.
 3. Ahora puedes probar los endpoints protegidos.
 
 ---
