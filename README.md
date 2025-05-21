@@ -70,7 +70,7 @@ Incluye API REST desarrollada con Spring Boot y documentación interactiva en Sw
      "rol": "USUARIO"
    }
    ```
-3. El usuario creado tendrá permisos de ver solamente y no puede crear tareas ni proyectos.
+3. El USUARIO creado tendrá permisos de ver solamente y no puede crear tareas ni proyectos, también respetar la mayúsculas al crear.
 
 ---
 
