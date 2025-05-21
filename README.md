@@ -56,7 +56,7 @@ Incluye API REST desarrollada con Spring Boot y documentación interactiva en Sw
      "rol": "ADMINISTRADOR"
    }
    ```
-3. El usuario creado tendrá permisos de administrador.
+3. El ADMINISTRADOR creado tendrá todos los permisos, respetar la mayúsculas.
 
 ### 2. Crear un usuario normal
 
@@ -70,7 +70,7 @@ Incluye API REST desarrollada con Spring Boot y documentación interactiva en Sw
      "rol": "USUARIO"
    }
    ```
-3. El usuario creado tendrá permisos de usuario normal.
+3. El usuario creado tendrá permisos de ver solamente y no puede crear tareas ni proyectos.
 
 ---
 
