@@ -117,6 +117,7 @@ Incluye API REST desarrollada con Spring Boot y documentación interactiva en Sw
 ## 💡 Notas adicionales
 
 * Recuerda tener **PostgreSQL** corriendo.
+* Configura el archivo .properties en resources para pasarle los datos de la base de datos.
 
 
 ---
